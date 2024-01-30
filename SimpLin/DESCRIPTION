@@ -1,0 +1,16 @@
+Encoding: UTF-8
+Package: SimpLin
+Type: Package
+Title: STAT 600 Homework for Linear Regerssion
+     Line
+Version: 1.0
+Date: 2024-01-27
+Author: Your Name
+Maintainer: Your Name <your@email.com>
+Description: One paragraph description of what
+     the package does as one or more full
+     sentences.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.12)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.3.0
