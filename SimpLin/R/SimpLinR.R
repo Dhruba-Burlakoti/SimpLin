@@ -28,7 +28,7 @@ SimpLinR <- function(x, y) {
   }
   
   # Call the C++ function
-  result <- .Call("SimpLinCpp", x, y)
+  result <- SimpLinCpp(x,y)
   
   return(result)
 }
